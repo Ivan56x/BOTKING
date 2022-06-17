@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              𝙱𝙾𝚃-𝙺𝙸𝙽𝙶 𝓫𝔂 𝙻𝚄𝙸𝚂 𝙺𝙸𝙽𝙶
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙻𝚄𝙸𝚂 𝙺𝙸𝙽𝙶
 //
 //════════════════════════════//
 
@@ -25,9 +25,9 @@ global.ownernomer = '529983537578'
 global.ownername = 'ꪶ卐ꫂ ℓꪊ́ͥ𝙸ᷧ𝚂ͫ⛧к᩻เ᩻᭢᩻૭࿖͎༅͎࿑'
 global.botname = 'Luis-King'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.ig = 'https://github.com/Ivan56x/BOTKING'
+global.region = 'Mexico, South Mexico, Cancun'
+global.sc = 'https://github.com/Ivan56x/BOTKING'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Luis-King'
 global.author = 'ꪶ卐ꫂ ℓꪊ́ͥ𝙸ᷧ𝚂ͫ⛧к᩻เ᩻᭢᩻૭࿖͎༅͎࿑'
